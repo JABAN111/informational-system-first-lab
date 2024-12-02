@@ -1,0 +1,6 @@
+[submodule "FirstLabFrontIs"]
+	path = FirstLabFrontIs
+	url = https://github.com/JABAN111/FirstLabFrontIs.git
+[submodule "FistLab_Backend"]
+	path = FistLab_Backend
+	url = https://github.com/JABAN111/FistLab_Backend.git
